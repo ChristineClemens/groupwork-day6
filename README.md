@@ -1,13 +1,13 @@
 ### File
 
-* [`pizza-variables`](Unsolved/pizza-variables.html)
+* *None*
 
 ### Instructions
 
-* Using the instructions in the file above, fill in the missing JavaScript code to create variables.
+* Create a website (from scratch) that asks users if they eat steak.
 
-* When you are done, open the file in Chrome and check the output.
+* If they respond with "yes", alert the following to the page: "Here’s a Steak Sandwich!"
 
-* If you successfully completed the activity, you should see a series of pop-up windows with text inside.
+* If they respond with "no", alert the following to the page: "Here’s a Tofu Stir-Fry!"
 
-* Finally, look at the rest of the code and try to figure out why the text displayed the way it did.
+* **BONUS:** Ask what the user’s birth year is. If they are under 21, alert the following: "No Sake for you!"
